@@ -1,0 +1,7 @@
+[secrets]
+AWS_ACCESS_KEY: ABCDEFG
+
+AWS_SECRET_KEY: HIJKLMNOP
+
+[paths]
+LOCAL: /var/cache/cloudfile
